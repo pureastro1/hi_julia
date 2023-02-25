@@ -20,7 +20,7 @@ md"# 줄리아(Julia) 에 대하여
 "
 
 # ╔═╡ f9dfda4f-ce6a-42c9-9380-6cc5f26ba356
-md"""$(LocalResource("/Users/pureastro/julia_project/pluto_notebook/julia_book/Figure1.jpg"))
+md"""$(Resource("./Figure1.jpg"))
 그림 1 과학 연산 언어 (Fortran, C++, Python, R, 줄리아) 비교: 가로축-난이도, 세로축-연산 속도
 """
 
